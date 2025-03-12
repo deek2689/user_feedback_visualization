@@ -11,3 +11,4 @@ gensim
 wordcloud
 numpy
 textstat
+torch
