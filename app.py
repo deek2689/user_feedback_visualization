@@ -258,11 +258,11 @@ def main():
         st.warning("Please upload a valid file to continue.")
 
     # Add Footer with Image and Name
-    st.markdown("---")
-    col1, col2 = st.columns([0.8, 0.2])
-    with col2:
-        st.image("/home/enas/Downloads/1694441388613 (1) (1).jpg", width=100)
-        st.markdown("**Deeksha**")
+    #st.markdown("---")
+    #col1, col2 = st.columns([0.8, 0.2])
+    #with col2:
+        #st.image("/home/enas/Downloads/1694441388613 (1) (1).jpg", width=100)
+        #st.markdown("**Deeksha**")
 
 if __name__ == "__main__":
     main()
