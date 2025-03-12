@@ -3,6 +3,11 @@ pandas
 matplotlib
 seaborn
 requests
-textstat
 beautifulsoup4
-
+transformers
+nltk
+scikit-learn
+gensim
+wordcloud
+numpy
+textstat
